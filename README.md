@@ -1,20 +1,17 @@
-# Sistema de Gestão da Qualidade
 
-## Descrição
-Sistema web para gestão documental e controlo de qualidade em obras ferroviárias, focado em rastreabilidade, aprovações e geração de relatórios técnicos.
+# Sistema Integrado de Gestão da Qualidade – ASCH
 
-## Tecnologias
-- Frontend: React.js
-- UI: Material-UI
-- Backend: Node.js (futuro)
+Este repositório contém a demo funcional do SGQ da ASCH.  
+Inclui as páginas base de Dashboard, Ensaios e Documentos com layout moderno.
 
-## Funcionalidades Principais
-- Gestão de documentos
-- Controlo de qualidade
-- Registo de ensaios
-- Gestão de não conformidades
+## Como usar
 
-## Próximos Passos
-- Configuração inicial do projeto
-- Desenvolvimento do frontend
-- Implementação de componentes básicos
+1. Faz download deste repositório
+2. Abre o ficheiro `index.html` no teu navegador
+3. Navega livremente pela demo
+
+## Sobre
+
+Desenvolvido para mostrar a estrutura base de um SGQ adaptado a empreitadas ferroviárias e outros projetos da ASCH.
+
+© 2025 ASCH Infraestructuras y Servicios
