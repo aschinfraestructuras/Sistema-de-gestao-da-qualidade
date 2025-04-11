@@ -1,0 +1,1 @@
+console.log("SGQ ASCH Demo iniciada");
